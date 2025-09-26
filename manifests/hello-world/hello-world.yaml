@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: crisdockerz/hello-world-custom:hello-world-1.0
+          image: crisdockerz/hello-world-custom:hello-world-1.1
 ---
 apiVersion: v1
 kind: Service
