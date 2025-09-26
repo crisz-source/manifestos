@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: calculadora
-        image: crisdockerz/calculadora-custom:1.2
+        image: crisdockerz/calculadora-custom:1.3
         ports:
         - containerPort: 8000
 
