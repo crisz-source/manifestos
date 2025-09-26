@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: crisdockerz/hello-world:1.0   # <- sua imagem no DockerHub
+          image: crisdockerz/hello-world-custom:1.0
           ports:
             - containerPort: 3000
 ---
